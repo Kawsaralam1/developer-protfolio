@@ -15,10 +15,19 @@ section {
 }
 
 .half-width {
-    width: 50px;
-    padding-left: 2%;
+    width: 10px;
+    padding-left: 24%;
 }
 
 .half-width img {
-    width: 500px;
+    width: 100 px;
+}
+
+.link-button {
+    text-decoration: no;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700px;
+    Border-radius: 5px;
 }
